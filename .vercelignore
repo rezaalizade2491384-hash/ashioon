@@ -1,15 +1,18 @@
-# Ignore Python/Django files
+# Ignore all Python/Django files
 *.py
 *.pyc
-__pycache__
+__pycache__/
 requirements.txt
 runtime.txt
 Procfile
 wsgi.py
-src.wsgi/
+settings.py
+urls.py
 manage.py
 *.sqlite3
 db.sqlite3
+.venv/
+venv/
 
 # Ignore other files
 README.md
