@@ -1,0 +1,17 @@
+# Ignore Python/Django files
+*.py
+*.pyc
+__pycache__
+requirements.txt
+runtime.txt
+Procfile
+wsgi.py
+src.wsgi/
+manage.py
+*.sqlite3
+db.sqlite3
+
+# Ignore other files
+README.md
+.gitignore
+.env.example
