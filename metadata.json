@@ -1,0 +1,6 @@
+{
+  "name": "Ashioon",
+  "description": "سامانه هوشمند و پیشرفته خرید، فروش و اجاره املاک ایران مجهز به هوش مصنوعی",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
